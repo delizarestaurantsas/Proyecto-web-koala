@@ -1,36 +1,36 @@
-# ?? Proyecto: Portal Informativo TechNova (Prueba TÈcnica Koala)
+# ?? Proyecto: Portal Informativo TechNova (Prueba T√©cnica Koala)
 	
-	Este repositorio contiene la fase final del proceso de selecciÛn para el cargo de **Desarrollador Web Junior** en la empresa *Soluciones y Servicios Web Koala*. Se trata de una p·gina web informativa para una empresa ficticia de marketing digital, desarrollada bajo est·ndares modernos y metodologÌas ·giles.
+	Este repositorio contiene la fase final del proceso de selecci√≥n para el cargo de **Desarrollador Web Junior** en la empresa *Soluciones y Servicios Web Koala*. Se trata de una p√°gina web informativa para una empresa ficticia de marketing digital, desarrollada bajo est√°ndares modernos y metodolog√≠as √°giles.
 				
 				## ?? Enlace del Proyecto
-			Puedes ver la p·gina en funcionamiento aquÌ:  
-				?? **[PEGA AQUÕ TU URL DE GITHUB PAGES]**
+			Puedes ver la p√°gina en funcionamiento aqu√≠:  
+				?? **(https://delizarestaurantsas.github.io/proyecto-web-koala./index.html)]**
 				
 				---
 				
-				## ??? TecnologÌas y Herramientas
+				## ??? Tecnolog√≠as y Herramientas
 			Para este desarrollo se utilizaron las siguientes herramientas, cumpliendo con los requisitos del cargo:
 					
 				* **Framework Front-end:** [Bootstrap 5.3](https://getbootstrap.com/) (Sistema de rejilla, componentes y utilidades).
 					* **Lenguajes:** HTML5, CSS3 (Custom Styles).
-					* **TipografÌa:** Google Fonts (Montserrat para tÌtulos y Open Sans para cuerpo).
-							* **IconografÌa:** Bootstrap Icons (SVG integrados).
-							* **Multimedia:** Im·genes optimizadas vÌa CDN y Video responsivo mediante el componente `ratio` de Bootstrap.
+					* **Tipograf√≠a:** Google Fonts (Montserrat para t√≠tulos y Open Sans para cuerpo).
+							* **Iconograf√≠a:** Bootstrap Icons (SVG integrados).
+							* **Multimedia:** Im√°genes optimizadas v√≠a CDN y Video responsivo mediante el componente `ratio` de Bootstrap.
 							* **Control de Versiones:** Git & GitHub.
 								
 								---
 								
-								## ?? MetodologÌa de Desarrollo
-							Se aplicÛ un enfoque **Agile (Scrum/Kanban)** para asegurar una entrega r·pida y funcional (MVP):
+								## ?? Metodolog√≠a de Desarrollo
+							Se aplic√≥ un enfoque **Agile (Scrum/Kanban)** para asegurar una entrega r√°pida y funcional (MVP):
 									
-								1.  **PlanificaciÛn:** DefiniciÛn de la estructura sem·ntica de la p·gina.
-								2.  **Desarrollo Iterativo:** ImplementaciÛn de la navegaciÛn y la secciÛn Hero, seguida de los mÛdulos de servicios y multimedia.
-								3.  **Ajustes y OptimizaciÛn:** PersonalizaciÛn de la paleta de colores y verificaciÛn de la responsividad en dispositivos mÛviles.
+								1.  **Planificaci√≥n:** Definici√≥n de la estructura sem√°ntica de la p√°gina.
+								2.  **Desarrollo Iterativo:** Implementaci√≥n de la navegaci√≥n y la secci√≥n Hero, seguida de los m√≥dulos de servicios y multimedia.
+								3.  **Ajustes y Optimizaci√≥n:** Personalizaci√≥n de la paleta de colores y verificaci√≥n de la responsividad en dispositivos m√≥viles.
 									
 									---
 									
-									## ? CaracterÌsticas Implementadas
-								* **DiseÒo Responsivo:** Adaptabilidad total a mÛviles, tablets y escritorio.
-								* **NavegaciÛn Intuitiva:** Men˙ pegajoso (*Sticky*) para facilitar la experiencia de usuario.
-									* **Elementos Multimedia:** InclusiÛn de video corporativo y galerÌa de servicios con efectos visuales al pasar el cursor (*Hover effects*).
+									## ? Caracter√≠sticas Implementadas
+								* **Dise√±o Responsivo:** Adaptabilidad total a m√≥viles, tablets y escritorio.
+								* **Navegaci√≥n Intuitiva:** Men√∫ pegajoso (*Sticky*) para facilitar la experiencia de usuario.
+									* **Elementos Multimedia:** Inclusi√≥n de video corporativo y galer√≠a de servicios con efectos visuales al pasar el cursor (*Hover effects*).
 									* **Habilidades Blandas Aplicadas:** *

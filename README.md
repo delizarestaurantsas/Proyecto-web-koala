@@ -4,7 +4,7 @@
 				
 				## ?? Enlace del Proyecto
 			Puedes ver la página en funcionamiento aquí:  
-				?? **(https://delizarestaurantsas.github.io/proyecto-web-koala./index.html)]**
+				?? **[https://delizarestaurantsas.github.io/proyecto-web-koala./index.html]**
 				
 				---
 				
